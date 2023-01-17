@@ -7,7 +7,7 @@ import hostelApplications from './routes/applicationRoutes.js';
 
 const app = express();
 const PORT = process.env.PORT || 8080;
-const url ="mongodb+srv://asjad:123@cluster0.any5o.mongodb.net/?retryWrites=true&w=majority";
+const url ="mongodb+srv://ayman123mughal:meranotE2@cluster0.fqfizbi.mongodb.net/?retryWrites=true&w=majority";
 
 
 
